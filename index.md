@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to LCH'S WebSite
 
-You can use the [editor on GitHub](https://github.com/LCH579/LCH579-hgu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+저는 현재 한동대학교에 제학 중인 19학번 이찬휘 입니다.    
+전공은 컴퓨터 공학 심화 입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 여태까지 배운 컴퓨터 언어
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 파이썬 (PYTHON)
+- C
+- JAVA
+- HTML
 
 ```markdown
 Syntax highlighted code block
