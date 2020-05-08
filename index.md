@@ -1,9 +1,10 @@
 ## Welcome to LCH'S WebSite
 
 저는 현재 한동대학교에 제학 중인 19학번 이찬휘 입니다.    
-전공은 컴퓨터 공학 심화 입니다.
+전공은 전산전자 공학부 소속 컴퓨터 공학 심화 입니다.
 
 
+---------------------------------------------------
 ### 여태까지 배운 컴퓨터 언어
 
 - 파이썬 (PYTHON)
@@ -11,30 +12,34 @@
 - JAVA
 - HTML
 
-```markdown
-Syntax highlighted code block
+#### 만들었던 주요 프로그램
+- 용돈관리 프로그램 (Java)
+- 맛집 찾아 삼만리 (C)
 
-# Header 1
-## Header 2
-### Header 3
+--------------------------------------------------
+### 관심 있는 분야는?
 
-- Bulleted
-- List
+심리학을 컴퓨터 공학과 접목하는 것에 관심이 있습니다. 아직은 아무것도 모르지만, 제 스스로 생각해 본것은   인공지능을 이용해서
+심리를 검사하고, 검사한 내용을 취합하고, 분석하는 그런 것에 관심이 있습니다. 사람이 계산하기 힘든 부분, 사람이 예측하기 너무 복잡한 부분을   컴퓨터로 할 수 있다면, 그 것도 그것 나름대로 의미 있지 않을까요? 굉장히 재미있을 것 같습니다.
 
-1. Numbered
-2. List
+--------------------------------------------------
+### 하고 있는 공부는?
 
-**Bold** and _Italic_ and `Code` text
+현재 학부생으로서 또 전공 새내기로서 이것저것 배워가고 있다. 다시말해, 앎의 **지경** 을 넓히고 있다 말할 수 있다.   
+공부하는 방법은, 학교에서 수업을 듣는 것 이외에도, [인프런](https://www.inflearn.com/)과 [생활코딩](https://opentutorials.org/course/1)에서 공부하고 있다. 
 
-[Link](url) and ![Image](src)
-```
+ [인프런](https://www.inflearn.com/)에서 배운 과목은 다음과 같다.
+- 취미로 해킹 #1
+- 취미로 해킹 #2
+- etc..
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[생활코딩](https://opentutorials.org/course/1)
+- WEB1 - HTML & Internet
+- java
+- Java1
+- etc..
 
-### Jekyll Themes
+----------------------------------------------
+### 개인 블로그 주소 
+   [돌공공돌](https://dolgonggongdol.tistory.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LCH579/LCH579-hgu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
